@@ -1,32 +1,29 @@
 {
   "files": {
-    "main.css": "/portfolio-djimmy-fini/static/css/main.c5bb4265.css",
-    "main.js": "/portfolio-djimmy-fini/static/js/main.67ea2ba6.js",
+    "main.css": "/portfolio-djimmy-fini/static/css/main.3f7a9096.css",
+    "main.js": "/portfolio-djimmy-fini/static/js/main.ddf98c86.js",
     "static/js/787.6dbdfb5e.chunk.js": "/portfolio-djimmy-fini/static/js/787.6dbdfb5e.chunk.js",
     "static/media/cartoon (1).png": "/portfolio-djimmy-fini/static/media/cartoon (1).08d45285f880ab025569.png",
     "static/media/color-sharp.png": "/portfolio-djimmy-fini/static/media/color-sharp.bea361cfef80fefc2d1e.png",
     "static/media/color-sharp2.png": "/portfolio-djimmy-fini/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
-    "static/media/contact-img.jpg": "/portfolio-djimmy-fini/static/media/contact-img.455334f31bf018e9d5a8.jpg",
     "static/media/meter3.png": "/portfolio-djimmy-fini/static/media/meter3.f8672b3ac3297ac4089b.png",
     "static/media/projImg3.jpg": "/portfolio-djimmy-fini/static/media/projImg3.bd1170cbc7f8e020135f.jpg",
-    "static/media/meter6.png": "/portfolio-djimmy-fini/static/media/meter6.0c658075c1cc5b769a4c.png",
     "static/media/projImg4.jpg": "/portfolio-djimmy-fini/static/media/projImg4.fe6189fef02926bd8d8f.jpg",
     "static/media/projImg1.jpg": "/portfolio-djimmy-fini/static/media/projImg1.438a279e0d739286afa3.jpg",
     "static/media/meter4.png": "/portfolio-djimmy-fini/static/media/meter4.1a1fdaae517c70809eaf.png",
     "static/media/revicons.eot": "/portfolio-djimmy-fini/static/media/revicons.a77de540a38981833f9e.eot",
     "static/media/revicons.ttf": "/portfolio-djimmy-fini/static/media/revicons.57fd05d4ae650374c8de.ttf",
     "static/media/projImg2.jpg": "/portfolio-djimmy-fini/static/media/projImg2.f899a2868ef9ba963484.jpg",
-    "static/media/meter1.png": "/portfolio-djimmy-fini/static/media/meter1.758b357bd0b1f537c83b.png",
     "static/media/revicons.woff": "/portfolio-djimmy-fini/static/media/revicons.e8746a624ed098489406.woff",
     "static/media/nav-icon3.svg": "/portfolio-djimmy-fini/static/media/nav-icon3.08b285abb8e118b52637efa5d65c5367.svg",
     "index.html": "/portfolio-djimmy-fini/index.html",
     "static/media/nav-icon1.svg": "/portfolio-djimmy-fini/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
-    "main.c5bb4265.css.map": "/portfolio-djimmy-fini/static/css/main.c5bb4265.css.map",
-    "main.67ea2ba6.js.map": "/portfolio-djimmy-fini/static/js/main.67ea2ba6.js.map",
+    "main.3f7a9096.css.map": "/portfolio-djimmy-fini/static/css/main.3f7a9096.css.map",
+    "main.ddf98c86.js.map": "/portfolio-djimmy-fini/static/js/main.ddf98c86.js.map",
     "787.6dbdfb5e.chunk.js.map": "/portfolio-djimmy-fini/static/js/787.6dbdfb5e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c5bb4265.css",
-    "static/js/main.67ea2ba6.js"
+    "static/css/main.3f7a9096.css",
+    "static/js/main.ddf98c86.js"
   ]
 }
